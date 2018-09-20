@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+#-------------------gem 'gamefile', :path => '/Users/tania/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/gamelife-0.1.0/lib/gamelife.rb'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
