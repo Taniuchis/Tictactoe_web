@@ -1,13 +1,18 @@
 <% provide(:title, "Home") %>
 <!DOCTYPE html>
 <html>
-  <head>
-    <title><%= yield(:title) %> </title>
-  </head>
-  <body>
+<head>
+  <title><%= yield(:title) %> </title>
+</head>
+<body>
+	<div class="center jumbotron">
     <h1>Tictactoe App</h1>
     <p>
       This is the home page for the Tictactoe application.
     </p>
-  </body>
+     <%= link_to "Sign up now!", '#', class: "btn btn-lg btn-primary" %>
+  </div>
+</body>
 </html>
+
+
